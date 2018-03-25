@@ -1,8 +1,8 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Bad_JAV_Sites/domains.list": {
-        "number_of_down": 273,
+        "number_of_down": 274,
         "number_of_invalid": 6,
         "number_of_tested": 597,
-        "number_of_up": 318
+        "number_of_up": 317
     }
 }
