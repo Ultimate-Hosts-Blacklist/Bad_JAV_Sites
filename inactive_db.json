@@ -1,7 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Bad_JAV_Sites/domains.list": {
-        "1522284629": [
-            "addict-jav.com",
+        "1522421090": [
             "adult-movie.download",
             "akibajav.biz",
             "av-debut.org",
@@ -259,6 +258,8 @@
             "wwjav.com",
             "yourjav.net"
         ],
-        "to_test": []
+        "to_test": [
+            "addict-jav.com"
+        ]
     }
 }
