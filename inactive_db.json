@@ -1,6 +1,7 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Bad_JAV_Sites/domains.list": {
-        "1534700752": [
+        "1534960175": [
+            "4k-jav.com",
             "addict-jav.com",
             "adult-movie.download",
             "akibajav.biz",
@@ -204,6 +205,7 @@
             "javaged.com",
             "javages.com",
             "javakiba.org*",
+            "javangry.com",
             "javarchive.site",
             "javarchivecom.ovh",
             "javbee.org",
@@ -288,6 +290,7 @@
             "oecdtw.com",
             "portal-jav.com",
             "rarejav.com",
+            "redstars.top",
             "sdrees.biz",
             "showmejav.com",
             "storejav.com",
@@ -296,7 +299,7 @@
             "yourjav.net"
         ],
         "to_test": [
-            "4k-jav.com"
+            "2av-cloud.net"
         ]
     }
 }
