@@ -1,6 +1,7 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Bad_JAV_Sites/domains.list": {
-        "1535133203": [
+        "1535478586": [
+            "2av-cloud.net",
             "4k-jav.com",
             "addict-jav.com",
             "adult-movie.download",
@@ -25,6 +26,7 @@
             "drumfit.org",
             "ejav.org",
             "extremeav.ovh",
+            "f-juku.com",
             "freeiv.pixnet.net/blog",
             "freejav.link",
             "gravureidol4u.com",
@@ -257,6 +259,7 @@
             "javpalace.net",
             "javpiece.com",
             "javpop-hd.com",
+            "javpophd.com",
             "javportal.site",
             "javrar.ga",
             "javrar.gq",
@@ -269,6 +272,7 @@
             "javshock.com",
             "javsitehd.com",
             "javsmack.com",
+            "javsmack.gq",
             "javsold.com",
             "javstore-hd.com",
             "javsunny.com",
@@ -299,8 +303,6 @@
             "wpanda.net",
             "yourjav.net"
         ],
-        "to_test": [
-            "2av-cloud.net"
-        ]
+        "to_test": []
     }
 }
