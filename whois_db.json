@@ -146,8 +146,8 @@
             "state": "future"
         },
         "darenkiss.info": {
-            "epoch": "1540944000",
-            "expiration_date": "31-oct-2018",
+            "epoch": "1572480000",
+            "expiration_date": "31-oct-2019",
             "state": "future"
         },
         "dmm48.com": {
@@ -746,8 +746,8 @@
             "state": "future"
         },
         "javhdboom.com": {
-            "epoch": "1540944000",
-            "expiration_date": "31-oct-2018",
+            "epoch": "1572480000",
+            "expiration_date": "31-oct-2019",
             "state": "future"
         },
         "javhdonline.net": {
@@ -988,6 +988,11 @@
         "newsjav.com": {
             "epoch": "1564876800",
             "expiration_date": "04-aug-2019",
+            "state": "future"
+        },
+        "newsjav.gq": {
+            "epoch": "1855785600",
+            "expiration_date": "22-oct-2028",
             "state": "future"
         },
         "nippondvd.com": {
