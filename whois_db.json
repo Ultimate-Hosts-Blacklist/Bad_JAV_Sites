@@ -8,7 +8,7 @@
         "24jav.club": {
             "epoch": "1541203200",
             "expiration_date": "03-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "3dvdiso.com": {
             "epoch": "1546041600",
@@ -276,8 +276,8 @@
             "state": "future"
         },
         "idolax.com": {
-            "epoch": "1541116800",
-            "expiration_date": "02-nov-2018",
+            "epoch": "1572652800",
+            "expiration_date": "02-nov-2019",
             "state": "future"
         },
         "idolbee.com": {
@@ -333,7 +333,7 @@
         "japandb.club": {
             "epoch": "1541203200",
             "expiration_date": "03-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "japansun.org": {
             "epoch": "1545609600",
@@ -668,7 +668,7 @@
         "javdb.club": {
             "epoch": "1541203200",
             "expiration_date": "03-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "javdirect.com": {
             "epoch": "1568332800",
@@ -973,7 +973,7 @@
         "my-jav.club": {
             "epoch": "1541203200",
             "expiration_date": "03-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "myjavlib.com": {
             "epoch": "1542672000",
@@ -1038,7 +1038,7 @@
         "topjav.club": {
             "epoch": "1541203200",
             "expiration_date": "03-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "tour2jav.info": {
             "epoch": "1550620800",
