@@ -238,7 +238,7 @@
         "hdjavdl.com": {
             "epoch": "1543536000",
             "expiration_date": "30-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "hdjavload.com": {
             "epoch": "1534118400",
@@ -323,7 +323,7 @@
         "japan-video.com": {
             "epoch": "1543536000",
             "expiration_date": "30-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "japan-videos.com": {
             "epoch": "1545091200",
