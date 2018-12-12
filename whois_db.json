@@ -571,9 +571,9 @@
             "state": "future"
         },
         "jav2dl.com": {
-            "epoch": "1544227200",
-            "expiration_date": "08-dec-2018",
-            "state": "past"
+            "epoch": "1575763200",
+            "expiration_date": "08-dec-2019",
+            "state": "future"
         },
         "jav2lib.com": {
             "epoch": "1567296000",
@@ -811,8 +811,8 @@
             "state": "future"
         },
         "javmoo.info": {
-            "epoch": "1544313600",
-            "expiration_date": "09-dec-2018",
+            "epoch": "1575849600",
+            "expiration_date": "09-dec-2019",
             "state": "future"
         },
         "javolts.com": {
