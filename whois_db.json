@@ -401,8 +401,8 @@
             "state": "future"
         },
         "jav-cafe.com": {
-            "epoch": "1546646400",
-            "expiration_date": "05-jan-2019",
+            "epoch": "1578182400",
+            "expiration_date": "05-jan-2020",
             "state": "future"
         },
         "jav-collect.com": {
@@ -518,7 +518,7 @@
         "jav-site.com": {
             "epoch": "1546646400",
             "expiration_date": "05-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "jav-source.com": {
             "epoch": "1569715200",
@@ -846,8 +846,8 @@
             "state": "future"
         },
         "javpop.ovh": {
-            "epoch": "1546646400",
-            "expiration_date": "05-jan-2019",
+            "epoch": "1578182400",
+            "expiration_date": "05-jan-2020",
             "state": "future"
         },
         "javpophd.com": {
@@ -1051,9 +1051,9 @@
             "state": "future"
         },
         "u15idol.com": {
-            "epoch": "1546473600",
-            "expiration_date": "03-jan-2019",
-            "state": "past"
+            "epoch": "1578009600",
+            "expiration_date": "03-jan-2020",
+            "state": "future"
         },
         "uncensoredav.com": {
             "epoch": "1555891200",
@@ -1086,8 +1086,8 @@
             "state": "future"
         },
         "worldjav.net": {
-            "epoch": "1546646400",
-            "expiration_date": "05-jan-2019",
+            "epoch": "1578182400",
+            "expiration_date": "05-jan-2020",
             "state": "future"
         },
         "wwjav.com": {
