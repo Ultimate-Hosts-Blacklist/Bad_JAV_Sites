@@ -16,9 +16,9 @@
             "state": "future"
         },
         "3xks.net": {
-            "epoch": "1546905600",
-            "expiration_date": "08-jan-2019",
-            "state": "past"
+            "epoch": "1578441600",
+            "expiration_date": "08-jan-2020",
+            "state": "future"
         },
         "5avlib.com": {
             "epoch": "1549411200",
@@ -526,8 +526,8 @@
             "state": "future"
         },
         "jav-town.com": {
-            "epoch": "1546992000",
-            "expiration_date": "09-jan-2019",
+            "epoch": "1578528000",
+            "expiration_date": "09-jan-2020",
             "state": "future"
         },
         "jav-video.info": {
@@ -678,7 +678,7 @@
         "javdownload.pro": {
             "epoch": "1547164800",
             "expiration_date": "11-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "javdownloadhd.com": {
             "epoch": "1571097600",
