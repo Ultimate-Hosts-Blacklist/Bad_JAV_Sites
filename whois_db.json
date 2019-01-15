@@ -538,7 +538,7 @@
         "jav-video.org": {
             "epoch": "1547510400",
             "expiration_date": "15-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "jav-web.com": {
             "epoch": "1576368000",
@@ -676,9 +676,9 @@
             "state": "future"
         },
         "javdownload.pro": {
-            "epoch": "1547164800",
-            "expiration_date": "11-jan-2019",
-            "state": "past"
+            "epoch": "1578700800",
+            "expiration_date": "11-jan-2020",
+            "state": "future"
         },
         "javdownloadhd.com": {
             "epoch": "1571097600",
@@ -738,6 +738,11 @@
         "javforever.com": {
             "epoch": "1568592000",
             "expiration_date": "16-sep-2019",
+            "state": "future"
+        },
+        "javhappy.com": {
+            "epoch": "1610409600",
+            "expiration_date": "12-jan-2021",
             "state": "future"
         },
         "javhard.net": {
