@@ -246,9 +246,9 @@
             "state": "past"
         },
         "hdjavporn.com": {
-            "epoch": "1548028800",
-            "expiration_date": "21-jan-2019",
-            "state": "past"
+            "epoch": "1579564800",
+            "expiration_date": "21-jan-2020",
+            "state": "future"
         },
         "hentaidz.com": {
             "epoch": "1570233600",
@@ -793,7 +793,7 @@
         "javlib.club": {
             "epoch": "1548115200",
             "expiration_date": "22-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "javlib3.com": {
             "epoch": "1569801600",
@@ -918,12 +918,12 @@
         "javtotal.club": {
             "epoch": "1548115200",
             "expiration_date": "22-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "javtown.club": {
             "epoch": "1548115200",
             "expiration_date": "22-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "javtown.com": {
             "epoch": "1569888000",
