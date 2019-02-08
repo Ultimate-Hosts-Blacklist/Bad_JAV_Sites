@@ -21,8 +21,8 @@
             "state": "future"
         },
         "5avlib.com": {
-            "epoch": "1549411200",
-            "expiration_date": "06-feb-2019",
+            "epoch": "1580947200",
+            "expiration_date": "06-feb-2020",
             "state": "future"
         },
         "adultdvdiso.com": {
@@ -591,9 +591,9 @@
             "state": "future"
         },
         "jav77.com": {
-            "epoch": "1549324800",
-            "expiration_date": "05-feb-2019",
-            "state": "past"
+            "epoch": "1580860800",
+            "expiration_date": "05-feb-2020",
+            "state": "future"
         },
         "javady.com": {
             "epoch": "1568851200",
