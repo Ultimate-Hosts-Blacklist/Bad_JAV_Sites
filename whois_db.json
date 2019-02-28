@@ -41,8 +41,8 @@
             "state": "future"
         },
         "archive-jav.com": {
-            "epoch": "1551225600",
-            "expiration_date": "27-feb-2019",
+            "epoch": "1582761600",
+            "expiration_date": "27-feb-2020",
             "state": "future"
         },
         "av-hardcore.com": {
@@ -613,7 +613,7 @@
         "javarchive.biz": {
             "epoch": "1551312000",
             "expiration_date": "28-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "javarchive.net": {
             "epoch": "1569456000",
@@ -648,7 +648,7 @@
         "javbloghd.com": {
             "epoch": "1551312000",
             "expiration_date": "28-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "javbooks.com": {
             "epoch": "1591574400",
@@ -938,7 +938,7 @@
         "jdvd4share.com": {
             "epoch": "1551312000",
             "expiration_date": "28-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "jexix.net": {
             "epoch": "1536451200",
