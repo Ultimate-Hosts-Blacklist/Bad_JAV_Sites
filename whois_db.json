@@ -171,8 +171,8 @@
             "state": "future"
         },
         "fastav.com": {
-            "epoch": "1551398400",
-            "expiration_date": "01-mar-2019",
+            "epoch": "1583020800",
+            "expiration_date": "01-mar-2020",
             "state": "future"
         },
         "fhd-jav.com": {
@@ -646,9 +646,9 @@
             "state": "future"
         },
         "javbloghd.com": {
-            "epoch": "1551312000",
-            "expiration_date": "28-feb-2019",
-            "state": "past"
+            "epoch": "1582848000",
+            "expiration_date": "28-feb-2020",
+            "state": "future"
         },
         "javbooks.com": {
             "epoch": "1591574400",
@@ -936,9 +936,9 @@
             "state": "future"
         },
         "jdvd4share.com": {
-            "epoch": "1551312000",
-            "expiration_date": "28-feb-2019",
-            "state": "past"
+            "epoch": "1582848000",
+            "expiration_date": "28-feb-2020",
+            "state": "future"
         },
         "jexix.net": {
             "epoch": "1536451200",
