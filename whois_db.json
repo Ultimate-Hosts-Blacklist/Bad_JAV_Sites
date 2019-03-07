@@ -193,7 +193,7 @@
         "full-hd-jav.com": {
             "epoch": "1551916800",
             "expiration_date": "07-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "fullhd-jav.com": {
             "epoch": "1580342400",
@@ -608,7 +608,7 @@
         "javalbum.com": {
             "epoch": "1551916800",
             "expiration_date": "07-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "javarchive.biz": {
             "epoch": "1551312000",
