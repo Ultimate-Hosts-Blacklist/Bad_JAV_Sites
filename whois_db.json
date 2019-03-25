@@ -181,8 +181,8 @@
             "state": "future"
         },
         "freshjav.net": {
-            "epoch": "1553472000",
-            "expiration_date": "25-mar-2019",
+            "epoch": "1585094400",
+            "expiration_date": "25-mar-2020",
             "state": "future"
         },
         "freshjavhd.com": {
@@ -226,8 +226,8 @@
             "state": "future"
         },
         "hdjav.biz": {
-            "epoch": "1553472000",
-            "expiration_date": "25-mar-2019",
+            "epoch": "1585094400",
+            "expiration_date": "25-mar-2020",
             "state": "future"
         },
         "hdjav.info": {
@@ -483,7 +483,7 @@
         "jav-load.com": {
             "epoch": "1553472000",
             "expiration_date": "25-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "jav-lover.com": {
             "epoch": "1712880000",
@@ -551,8 +551,8 @@
             "state": "future"
         },
         "jav.re": {
-            "epoch": "1553385600",
-            "expiration_date": "24-mar-2019",
+            "epoch": "1585008000",
+            "expiration_date": "24-mar-2020",
             "state": "future"
         },
         "jav007.com": {
@@ -888,7 +888,7 @@
         "javsex.info": {
             "epoch": "1553472000",
             "expiration_date": "25-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "javsexy.net": {
             "epoch": "1585612800",
