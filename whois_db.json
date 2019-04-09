@@ -398,7 +398,7 @@
         "jav-bus.com": {
             "epoch": "1554768000",
             "expiration_date": "09-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "jav-buzz.com": {
             "epoch": "1576368000",
@@ -636,8 +636,8 @@
             "state": "future"
         },
         "javbaike.com": {
-            "epoch": "1554681600",
-            "expiration_date": "08-apr-2019",
+            "epoch": "1586304000",
+            "expiration_date": "08-apr-2020",
             "state": "future"
         },
         "javbit.com": {
