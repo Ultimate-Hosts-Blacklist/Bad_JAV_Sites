@@ -396,9 +396,9 @@
             "state": "future"
         },
         "jav-bus.com": {
-            "epoch": "1554768000",
-            "expiration_date": "09-apr-2019",
-            "state": "past"
+            "epoch": "1586390400",
+            "expiration_date": "09-apr-2020",
+            "state": "future"
         },
         "jav-buzz.com": {
             "epoch": "1576368000",
@@ -478,7 +478,7 @@
         "jav-library.com": {
             "epoch": "1554940800",
             "expiration_date": "11-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "jav-links.com": {
             "epoch": "1577577600",
@@ -716,8 +716,8 @@
             "state": "future"
         },
         "javelop.com": {
-            "epoch": "1554854400",
-            "expiration_date": "10-apr-2019",
+            "epoch": "1586476800",
+            "expiration_date": "10-apr-2020",
             "state": "future"
         },
         "javetc.com": {
@@ -876,8 +876,8 @@
             "state": "future"
         },
         "javpop.org": {
-            "epoch": "1554854400",
-            "expiration_date": "10-apr-2019",
+            "epoch": "1586476800",
+            "expiration_date": "10-apr-2020",
             "state": "future"
         },
         "javpop.ovh": {
