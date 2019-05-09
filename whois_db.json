@@ -261,8 +261,8 @@
             "state": "future"
         },
         "highav.com": {
-            "epoch": "1557360000",
-            "expiration_date": "09-may-2019",
+            "epoch": "1588982400",
+            "expiration_date": "09-may-2020",
             "state": "future"
         },
         "hopic.net": {
@@ -371,9 +371,9 @@
             "state": "future"
         },
         "jav-av.com": {
-            "epoch": "1557187200",
-            "expiration_date": "07-may-2019",
-            "state": "past"
+            "epoch": "1588809600",
+            "expiration_date": "07-may-2020",
+            "state": "future"
         },
         "jav-az.com": {
             "epoch": "1569974400",
@@ -391,8 +391,8 @@
             "state": "future"
         },
         "jav-box.com": {
-            "epoch": "1557360000",
-            "expiration_date": "09-may-2019",
+            "epoch": "1588982400",
+            "expiration_date": "09-may-2020",
             "state": "future"
         },
         "jav-bus.com": {
@@ -1036,8 +1036,8 @@
             "state": "future"
         },
         "nippondvd.com": {
-            "epoch": "1557273600",
-            "expiration_date": "08-may-2019",
+            "epoch": "1588896000",
+            "expiration_date": "08-may-2020",
             "state": "future"
         },
         "oldpig610346.com": {
@@ -1143,7 +1143,7 @@
         "wwjav.com": {
             "epoch": "1557360000",
             "expiration_date": "09-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "yourjav.site": {
             "epoch": "1573344000",
