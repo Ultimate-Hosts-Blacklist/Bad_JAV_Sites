@@ -532,7 +532,7 @@
     "javfiles.com": {
         "epoch": 1558137600,
         "expiration_date": "18-may-2019",
-        "state": "future"
+        "state": "past"
     },
     "javfilmbox.com": {
         "epoch": 1558569600,
@@ -695,9 +695,9 @@
         "state": "future"
     },
     "jdvd4share.com": {
-        "epoch": 1551312000,
-        "expiration_date": "28-feb-2019",
-        "state": "past"
+        "epoch": 1589673600,
+        "expiration_date": "17-may-2020",
+        "state": "future"
     },
     "joshiav.com": {
         "epoch": 1574467200,
