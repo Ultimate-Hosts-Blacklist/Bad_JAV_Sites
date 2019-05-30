@@ -25,8 +25,8 @@
         "state": "future"
     },
     "av-hardcore.com": {
-        "epoch": 1559088000,
-        "expiration_date": "29-may-2019",
+        "epoch": 1590710400,
+        "expiration_date": "29-may-2020",
         "state": "future"
     },
     "av-mania.info": {
@@ -242,7 +242,7 @@
     "jav-addict.com": {
         "epoch": 1559174400,
         "expiration_date": "30-may-2019",
-        "state": "future"
+        "state": "past"
     },
     "jav-av.com": {
         "epoch": 1588809600,
@@ -300,9 +300,9 @@
         "state": "future"
     },
     "jav-fhd.net": {
-        "epoch": 1552694400,
-        "expiration_date": "16-mar-2019",
-        "state": "past"
+        "epoch": 1590278400,
+        "expiration_date": "24-may-2020",
+        "state": "future"
     },
     "jav-fresh.com": {
         "epoch": 1567296000,
@@ -415,9 +415,9 @@
         "state": "future"
     },
     "javalbum.com": {
-        "epoch": 1551916800,
-        "expiration_date": "07-mar-2019",
-        "state": "past"
+        "epoch": 1590537600,
+        "expiration_date": "27-may-2020",
+        "state": "future"
     },
     "javarchive.biz": {
         "epoch": 1590105600,
