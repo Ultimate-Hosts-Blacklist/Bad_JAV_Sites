@@ -1,23 +1,23 @@
 {
     "currently_under_test": "0",
     "days_until_next_test": 2,
-    "end_datetime": "Fri Jun 14 20:45:18 2019",
-    "end_epoch": 1560545118.893669,
+    "end_datetime": "Sun Jun 16 20:48:58 2019",
+    "end_epoch": 1560718138.75684,
     "name": "Bad_JAV_Sites",
     "previous_stats": {
         "builds": 1,
-        "clean.list": 387,
+        "clean.list": 388,
         "counter": {
-            "down": 778,
+            "down": 777,
             "invalid": 6,
             "tested": 1171,
-            "up": 387
+            "up": 388
         },
         "domains.list": 1171,
-        "volatile.list": 433,
-        "whitelisted.list": 387
+        "volatile.list": 434,
+        "whitelisted.list": 388
     },
     "raw_link": "",
-    "start_datetime": "Fri Jun 14 20:38:55 2019",
-    "start_epoch": 1560544735.763795
+    "start_datetime": "Sun Jun 16 20:43:08 2019",
+    "start_epoch": 1560717788.947039
 }
