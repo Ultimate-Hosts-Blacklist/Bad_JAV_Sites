@@ -60,8 +60,8 @@
         "state": "future"
     },
     "avdvdrar.com": {
-        "epoch": 1562716800,
-        "expiration_date": "10-jul-2019",
+        "epoch": 1594339200,
+        "expiration_date": "10-jul-2020",
         "state": "future"
     },
     "avlib.info": {
@@ -409,6 +409,11 @@
         "expiration_date": "23-aug-2019",
         "state": "future"
     },
+    "jav4you.online": {
+        "epoch": 1566604800,
+        "expiration_date": "24-aug-2019",
+        "state": "future"
+    },
     "jav77.com": {
         "epoch": 1580860800,
         "expiration_date": "05-feb-2020",
@@ -477,6 +482,11 @@
     "javd.pro": {
         "epoch": 1576195200,
         "expiration_date": "13-dec-2019",
+        "state": "future"
+    },
+    "javdb.online": {
+        "epoch": 1566604800,
+        "expiration_date": "24-aug-2019",
         "state": "future"
     },
     "javdirect.com": {
@@ -764,6 +774,11 @@
         "expiration_date": "21-aug-2019",
         "state": "future"
     },
+    "topjav.site": {
+        "epoch": 1584835200,
+        "expiration_date": "22-mar-2020",
+        "state": "future"
+    },
     "tour2jav.info": {
         "epoch": 1589241600,
         "expiration_date": "12-may-2020",
@@ -818,5 +833,15 @@
         "epoch": 1557360000,
         "expiration_date": "09-may-2019",
         "state": "past"
+    },
+    "yourjav.site": {
+        "epoch": 1573344000,
+        "expiration_date": "10-nov-2019",
+        "state": "future"
+    },
+    "yourjav.xyz": {
+        "epoch": 1573516800,
+        "expiration_date": "12-nov-2019",
+        "state": "future"
     }
 }
