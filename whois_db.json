@@ -494,6 +494,11 @@
         "expiration_date": "13-sep-2019",
         "state": "future"
     },
+    "javdown.net": {
+        "epoch": 1595116800,
+        "expiration_date": "19-jul-2020",
+        "state": "future"
+    },
     "javdreamshd.com": {
         "epoch": 1577664000,
         "expiration_date": "30-dec-2019",
