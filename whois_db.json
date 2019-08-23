@@ -34,6 +34,11 @@
         "expiration_date": "06-sep-2019",
         "state": "future"
     },
+    "avaruaru.com": {
+        "epoch": 1585785600,
+        "expiration_date": "02-apr-2020",
+        "state": "future"
+    },
     "avbloghd.com": {
         "epoch": 1582243200,
         "expiration_date": "21-feb-2020",
@@ -225,8 +230,8 @@
         "state": "future"
     },
     "japantv.club": {
-        "epoch": 1566518400,
-        "expiration_date": "23-aug-2019",
+        "epoch": 1598140800,
+        "expiration_date": "23-aug-2020",
         "state": "future"
     },
     "jav-addict.com": {
@@ -375,13 +380,13 @@
         "state": "future"
     },
     "jav4me.club": {
-        "epoch": 1566518400,
-        "expiration_date": "23-aug-2019",
+        "epoch": 1598140800,
+        "expiration_date": "23-aug-2020",
         "state": "future"
     },
     "jav4you.club": {
-        "epoch": 1566518400,
-        "expiration_date": "23-aug-2019",
+        "epoch": 1598140800,
+        "expiration_date": "23-aug-2020",
         "state": "future"
     },
     "jav77.com": {
@@ -690,8 +695,8 @@
         "state": "future"
     },
     "oldpig610346.com": {
-        "epoch": 1566432000,
-        "expiration_date": "22-aug-2019",
+        "epoch": 1598054400,
+        "expiration_date": "22-aug-2020",
         "state": "future"
     },
     "oo2go.org": {
