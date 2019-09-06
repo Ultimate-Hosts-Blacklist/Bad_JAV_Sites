@@ -32,7 +32,7 @@
     "av-mania.info": {
         "epoch": 1567728000,
         "expiration_date": "06-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "avaruaru.com": {
         "epoch": 1585785600,
@@ -565,8 +565,8 @@
         "state": "future"
     },
     "javmax.com": {
-        "epoch": 1567641600,
-        "expiration_date": "05-sep-2019",
+        "epoch": 1599264000,
+        "expiration_date": "05-sep-2020",
         "state": "future"
     },
     "javmoo.info": {
@@ -575,8 +575,8 @@
         "state": "future"
     },
     "javolts.com": {
-        "epoch": 1567641600,
-        "expiration_date": "05-sep-2019",
+        "epoch": 1599264000,
+        "expiration_date": "05-sep-2020",
         "state": "future"
     },
     "javpalace.com": {
@@ -740,8 +740,8 @@
         "state": "future"
     },
     "up360.info": {
-        "epoch": 1567641600,
-        "expiration_date": "05-sep-2019",
+        "epoch": 1599264000,
+        "expiration_date": "05-sep-2020",
         "state": "future"
     },
     "uujav.com": {
