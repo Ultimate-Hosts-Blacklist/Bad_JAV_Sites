@@ -59,6 +59,11 @@
         "expiration_date": "11-jun-2020",
         "state": "future"
     },
+    "avotaku.com": {
+        "epoch": 1591920000,
+        "expiration_date": "12-jun-2020",
+        "state": "future"
+    },
     "avpanel.com": {
         "epoch": 1590019200,
         "expiration_date": "21-may-2020",
@@ -309,6 +314,11 @@
         "expiration_date": "12-apr-2024",
         "state": "future"
     },
+    "jav-share.com": {
+        "epoch": 1562198400,
+        "expiration_date": "04-jul-2019",
+        "state": "past"
+    },
     "jav-source.com": {
         "epoch": 1576627200,
         "expiration_date": "18-dec-2019",
@@ -429,6 +439,11 @@
         "expiration_date": "04-oct-2020",
         "state": "future"
     },
+    "javdirect.com": {
+        "epoch": 1568332800,
+        "expiration_date": "13-sep-2019",
+        "state": "future"
+    },
     "javdown.net": {
         "epoch": 1595116800,
         "expiration_date": "19-jul-2020",
@@ -457,6 +472,11 @@
     "javels.com": {
         "epoch": 1655251200,
         "expiration_date": "15-jun-2022",
+        "state": "future"
+    },
+    "javeth.com": {
+        "epoch": 1592265600,
+        "expiration_date": "16-jun-2020",
         "state": "future"
     },
     "javfever.com": {
