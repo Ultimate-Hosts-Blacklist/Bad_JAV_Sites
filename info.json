@@ -1,8 +1,8 @@
 {
     "currently_under_test": "0",
     "days_until_next_test": 2,
-    "end_datetime": "Sun Sep 15 21:33:44 2019",
-    "end_epoch": 1568583224.310278,
+    "end_datetime": "Sun Sep 15 22:56:47 2019",
+    "end_epoch": 1568588207.854571,
     "name": "Bad_JAV_Sites",
     "previous_stats": {
         "builds": 1,
@@ -16,6 +16,6 @@
         "whitelisted.list": 379
     },
     "raw_link": "",
-    "start_datetime": "Sun Sep 15 21:27:55 2019",
-    "start_epoch": 1568582875.822006
+    "start_datetime": "Sun Sep 15 22:49:44 2019",
+    "start_epoch": 1568587784.021456
 }
