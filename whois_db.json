@@ -560,8 +560,8 @@
         "state": "future"
     },
     "javlib3.com": {
-        "epoch": 1569801600,
-        "expiration_date": "30-sep-2019",
+        "epoch": 1601424000,
+        "expiration_date": "30-sep-2020",
         "state": "future"
     },
     "javlibraries.xyz": {
@@ -632,6 +632,11 @@
     "javrls.org": {
         "epoch": 1593129600,
         "expiration_date": "26-jun-2020",
+        "state": "future"
+    },
+    "javsex.info": {
+        "epoch": 1601337600,
+        "expiration_date": "29-sep-2020",
         "state": "future"
     },
     "javsexy.net": {
