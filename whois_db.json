@@ -1,17 +1,72 @@
 {
+    "adultjav.com": {
+        "epoch": 1588809600,
+        "expiration_date": "07-may-2020",
+        "state": "future"
+    },
+    "avaruaru.com": {
+        "epoch": 1585785600,
+        "expiration_date": "02-apr-2020",
+        "state": "future"
+    },
+    "avpapa.com": {
+        "epoch": 1585958400,
+        "expiration_date": "04-apr-2020",
+        "state": "future"
+    },
+    "bestjav.org": {
+        "epoch": 1570233600,
+        "expiration_date": "05-oct-2019",
+        "state": "future"
+    },
+    "freshjavhd.com": {
+        "epoch": 1566345600,
+        "expiration_date": "21-aug-2019",
+        "state": "past"
+    },
+    "highav.com": {
+        "epoch": 1588982400,
+        "expiration_date": "09-may-2020",
+        "state": "future"
+    },
     "idolbee.com": {
         "epoch": 1754265600,
         "expiration_date": "04-aug-2025",
         "state": "future"
+    },
+    "idolforfun.com": {
+        "epoch": 1565222400,
+        "expiration_date": "08-aug-2019",
+        "state": "past"
     },
     "innocnt.com": {
         "epoch": 1570320000,
         "expiration_date": "06-oct-2019",
         "state": "future"
     },
+    "japan-video.com": {
+        "epoch": 1585267200,
+        "expiration_date": "27-mar-2020",
+        "state": "future"
+    },
     "jav-box.com": {
         "epoch": 1588982400,
         "expiration_date": "09-may-2020",
+        "state": "future"
+    },
+    "jav-share.com": {
+        "epoch": 1601424000,
+        "expiration_date": "30-sep-2020",
+        "state": "future"
+    },
+    "jav-web.com": {
+        "epoch": 1585180800,
+        "expiration_date": "26-mar-2020",
+        "state": "future"
+    },
+    "jav007.com": {
+        "epoch": 1587686400,
+        "expiration_date": "24-apr-2020",
         "state": "future"
     },
     "javarchive.net": {
@@ -24,14 +79,64 @@
         "expiration_date": "07-jul-2020",
         "state": "future"
     },
+    "javdirect.com": {
+        "epoch": 1599955200,
+        "expiration_date": "13-sep-2020",
+        "state": "future"
+    },
+    "javels.com": {
+        "epoch": 1655251200,
+        "expiration_date": "15-jun-2022",
+        "state": "future"
+    },
+    "javfiles.com": {
+        "epoch": 1596672000,
+        "expiration_date": "06-aug-2020",
+        "state": "future"
+    },
+    "javfilmbox.com": {
+        "epoch": 1601424000,
+        "expiration_date": "30-sep-2020",
+        "state": "future"
+    },
+    "javimpact.com": {
+        "epoch": 1589500800,
+        "expiration_date": "15-may-2020",
+        "state": "future"
+    },
+    "javjuice.com": {
+        "epoch": 1697587200,
+        "expiration_date": "18-oct-2023",
+        "state": "future"
+    },
     "javmax.com": {
         "epoch": 1599264000,
         "expiration_date": "05-sep-2020",
         "state": "future"
     },
+    "javpop.org": {
+        "epoch": 1586476800,
+        "expiration_date": "10-apr-2020",
+        "state": "future"
+    },
+    "javpophd.com": {
+        "epoch": 1598832000,
+        "expiration_date": "31-aug-2020",
+        "state": "future"
+    },
     "javsex.info": {
         "epoch": 1601337600,
         "expiration_date": "29-sep-2020",
+        "state": "future"
+    },
+    "javspeed.com": {
+        "epoch": 1594080000,
+        "expiration_date": "07-jul-2020",
+        "state": "future"
+    },
+    "jdvd4share.com": {
+        "epoch": 1589673600,
+        "expiration_date": "17-may-2020",
         "state": "future"
     },
     "myjavlib.com": {
@@ -44,6 +149,16 @@
         "expiration_date": "14-mar-2020",
         "state": "future"
     },
+    "teendvdiso.com": {
+        "epoch": 1597968000,
+        "expiration_date": "21-aug-2020",
+        "state": "future"
+    },
+    "tour2jav.info": {
+        "epoch": 1589241600,
+        "expiration_date": "12-may-2020",
+        "state": "future"
+    },
     "verydl.com": {
         "epoch": 1596931200,
         "expiration_date": "09-aug-2020",
@@ -52,6 +167,11 @@
     "watch-av.com": {
         "epoch": 1586736000,
         "expiration_date": "13-apr-2020",
+        "state": "future"
+    },
+    "watch-jav.com": {
+        "epoch": 1587081600,
+        "expiration_date": "17-apr-2020",
         "state": "future"
     }
 }
