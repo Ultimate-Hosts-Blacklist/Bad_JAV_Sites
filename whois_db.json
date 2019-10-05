@@ -1,4 +1,14 @@
 {
+    "3dvdiso.com": {
+        "epoch": 1577577600,
+        "expiration_date": "29-dec-2019",
+        "state": "future"
+    },
+    "adultdvdiso.com": {
+        "epoch": 1593475200,
+        "expiration_date": "30-jun-2020",
+        "state": "future"
+    },
     "adultjav.com": {
         "epoch": 1588809600,
         "expiration_date": "07-may-2020",
@@ -14,6 +24,11 @@
         "expiration_date": "02-apr-2020",
         "state": "future"
     },
+    "avcute.com": {
+        "epoch": 1595462400,
+        "expiration_date": "23-jul-2020",
+        "state": "future"
+    },
     "avdvdrar.com": {
         "epoch": 1594339200,
         "expiration_date": "10-jul-2020",
@@ -24,6 +39,11 @@
         "expiration_date": "11-jun-2020",
         "state": "future"
     },
+    "avpanel.com": {
+        "epoch": 1590019200,
+        "expiration_date": "21-may-2020",
+        "state": "future"
+    },
     "avpapa.com": {
         "epoch": 1585958400,
         "expiration_date": "04-apr-2020",
@@ -32,11 +52,26 @@
     "bestjav.org": {
         "epoch": 1570233600,
         "expiration_date": "05-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "binrand.com": {
         "epoch": 1580342400,
         "expiration_date": "30-jan-2020",
+        "state": "future"
+    },
+    "dmm48.com": {
+        "epoch": 1584403200,
+        "expiration_date": "17-mar-2020",
+        "state": "future"
+    },
+    "erotorrent.info": {
+        "epoch": 1575676800,
+        "expiration_date": "07-dec-2019",
+        "state": "future"
+    },
+    "fastav.com": {
+        "epoch": 1583020800,
+        "expiration_date": "01-mar-2020",
         "state": "future"
     },
     "freshjavhd.com": {
@@ -49,6 +84,16 @@
         "expiration_date": "13-aug-2020",
         "state": "future"
     },
+    "hdjav.biz": {
+        "epoch": 1585094400,
+        "expiration_date": "25-mar-2020",
+        "state": "future"
+    },
+    "hdjav.site": {
+        "epoch": 1593993600,
+        "expiration_date": "06-jul-2020",
+        "state": "future"
+    },
     "highav.com": {
         "epoch": 1588982400,
         "expiration_date": "09-may-2020",
@@ -57,6 +102,11 @@
     "hopic.net": {
         "epoch": 1581638400,
         "expiration_date": "14-feb-2020",
+        "state": "future"
+    },
+    "hot-av.info": {
+        "epoch": 1589932800,
+        "expiration_date": "20-may-2020",
         "state": "future"
     },
     "idolbee.com": {
@@ -89,9 +139,49 @@
         "expiration_date": "23-aug-2020",
         "state": "future"
     },
+    "jav-boom.com": {
+        "epoch": 1575072000,
+        "expiration_date": "30-nov-2019",
+        "state": "future"
+    },
     "jav-box.com": {
         "epoch": 1588982400,
         "expiration_date": "09-may-2020",
+        "state": "future"
+    },
+    "jav-fan.com": {
+        "epoch": 1589500800,
+        "expiration_date": "15-may-2020",
+        "state": "future"
+    },
+    "jav-fhd.net": {
+        "epoch": 1590278400,
+        "expiration_date": "24-may-2020",
+        "state": "future"
+    },
+    "jav-fresh.com": {
+        "epoch": 1598918400,
+        "expiration_date": "01-sep-2020",
+        "state": "future"
+    },
+    "jav-group.com": {
+        "epoch": 1587600000,
+        "expiration_date": "23-apr-2020",
+        "state": "future"
+    },
+    "jav-legend.com": {
+        "epoch": 1572825600,
+        "expiration_date": "04-nov-2019",
+        "state": "future"
+    },
+    "jav-load.com": {
+        "epoch": 1593302400,
+        "expiration_date": "28-jun-2020",
+        "state": "future"
+    },
+    "jav-lover.com": {
+        "epoch": 1712880000,
+        "expiration_date": "12-apr-2024",
         "state": "future"
     },
     "jav-share.com": {
@@ -104,6 +194,11 @@
         "expiration_date": "26-mar-2020",
         "state": "future"
     },
+    "jav.center": {
+        "epoch": 1587772800,
+        "expiration_date": "25-apr-2020",
+        "state": "future"
+    },
     "jav.re": {
         "epoch": 1585008000,
         "expiration_date": "24-mar-2020",
@@ -114,9 +209,29 @@
         "expiration_date": "24-apr-2020",
         "state": "future"
     },
+    "jav11b.com": {
+        "epoch": 1573084800,
+        "expiration_date": "07-nov-2019",
+        "state": "future"
+    },
+    "jav2lib.com": {
+        "epoch": 1598918400,
+        "expiration_date": "01-sep-2020",
+        "state": "future"
+    },
+    "jav77.com": {
+        "epoch": 1580860800,
+        "expiration_date": "05-feb-2020",
+        "state": "future"
+    },
     "javady.com": {
         "epoch": 1575849600,
         "expiration_date": "09-dec-2019",
+        "state": "future"
+    },
+    "javalbum.com": {
+        "epoch": 1590537600,
+        "expiration_date": "27-may-2020",
         "state": "future"
     },
     "javarchive.net": {
@@ -124,15 +239,40 @@
         "expiration_date": "26-sep-2020",
         "state": "future"
     },
+    "javbaike.com": {
+        "epoch": 1586304000,
+        "expiration_date": "08-apr-2020",
+        "state": "future"
+    },
     "javbit.com": {
         "epoch": 1594080000,
         "expiration_date": "07-jul-2020",
+        "state": "future"
+    },
+    "javblast.com": {
+        "epoch": 1585872000,
+        "expiration_date": "03-apr-2020",
         "state": "future"
     },
     "javdirect.com": {
         "epoch": 1599955200,
         "expiration_date": "13-sep-2020",
         "state": "future"
+    },
+    "javdown.net": {
+        "epoch": 1595116800,
+        "expiration_date": "19-jul-2020",
+        "state": "future"
+    },
+    "javeal.com": {
+        "epoch": 1584057600,
+        "expiration_date": "13-mar-2020",
+        "state": "future"
+    },
+    "javeat.com": {
+        "epoch": 1565308800,
+        "expiration_date": "09-aug-2019",
+        "state": "past"
     },
     "javels.com": {
         "epoch": 1655251200,
@@ -164,10 +304,25 @@
         "expiration_date": "18-oct-2023",
         "state": "future"
     },
+    "javl10.com": {
+        "epoch": 1572048000,
+        "expiration_date": "26-oct-2019",
+        "state": "future"
+    },
+    "javli6.com": {
+        "epoch": 1584316800,
+        "expiration_date": "16-mar-2020",
+        "state": "future"
+    },
     "javlib3.com": {
         "epoch": 1601424000,
         "expiration_date": "30-sep-2020",
         "state": "future"
+    },
+    "javlink.net": {
+        "epoch": 1570233600,
+        "expiration_date": "05-oct-2019",
+        "state": "past"
     },
     "javmax.com": {
         "epoch": 1599264000,
@@ -177,6 +332,11 @@
     "javparty.com": {
         "epoch": 1599523200,
         "expiration_date": "08-sep-2020",
+        "state": "future"
+    },
+    "javperfect.com": {
+        "epoch": 1593302400,
+        "expiration_date": "28-jun-2020",
         "state": "future"
     },
     "javpop.org": {
@@ -219,9 +379,19 @@
         "expiration_date": "28-mar-2020",
         "state": "future"
     },
+    "javtown.com": {
+        "epoch": 1601510400,
+        "expiration_date": "01-oct-2020",
+        "state": "future"
+    },
     "jdvd4share.com": {
         "epoch": 1589673600,
         "expiration_date": "17-may-2020",
+        "state": "future"
+    },
+    "juicy48.com": {
+        "epoch": 1586217600,
+        "expiration_date": "07-apr-2020",
         "state": "future"
     },
     "myjavlib.com": {
@@ -239,6 +409,11 @@
         "expiration_date": "23-apr-2020",
         "state": "future"
     },
+    "redstars.top": {
+        "epoch": 1588118400,
+        "expiration_date": "29-apr-2020",
+        "state": "future"
+    },
     "sexyjapaneseav.com": {
         "epoch": 1584144000,
         "expiration_date": "14-mar-2020",
@@ -252,6 +427,16 @@
     "tour2jav.info": {
         "epoch": 1589241600,
         "expiration_date": "12-may-2020",
+        "state": "future"
+    },
+    "u15idol.com": {
+        "epoch": 1578009600,
+        "expiration_date": "03-jan-2020",
+        "state": "future"
+    },
+    "up360.info": {
+        "epoch": 1599264000,
+        "expiration_date": "05-sep-2020",
         "state": "future"
     },
     "verydl.com": {
