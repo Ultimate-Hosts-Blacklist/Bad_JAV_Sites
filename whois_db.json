@@ -14,6 +14,11 @@
         "expiration_date": "02-apr-2020",
         "state": "future"
     },
+    "avdvdrar.com": {
+        "epoch": 1594339200,
+        "expiration_date": "10-jul-2020",
+        "state": "future"
+    },
     "avlib.info": {
         "epoch": 1591833600,
         "expiration_date": "11-jun-2020",
@@ -27,6 +32,11 @@
     "bestjav.org": {
         "epoch": 1570233600,
         "expiration_date": "05-oct-2019",
+        "state": "future"
+    },
+    "binrand.com": {
+        "epoch": 1580342400,
+        "expiration_date": "30-jan-2020",
         "state": "future"
     },
     "freshjavhd.com": {
@@ -102,6 +112,11 @@
     "jav007.com": {
         "epoch": 1587686400,
         "expiration_date": "24-apr-2020",
+        "state": "future"
+    },
+    "javady.com": {
+        "epoch": 1575849600,
+        "expiration_date": "09-dec-2019",
         "state": "future"
     },
     "javarchive.net": {
@@ -219,6 +234,11 @@
         "expiration_date": "06-sep-2020",
         "state": "future"
     },
+    "pdf4share.net": {
+        "epoch": 1587600000,
+        "expiration_date": "23-apr-2020",
+        "state": "future"
+    },
     "sexyjapaneseav.com": {
         "epoch": 1584144000,
         "expiration_date": "14-mar-2020",
@@ -247,6 +267,11 @@
     "watch-jav.com": {
         "epoch": 1587081600,
         "expiration_date": "17-apr-2020",
+        "state": "future"
+    },
+    "worldjav.net": {
+        "epoch": 1578182400,
+        "expiration_date": "05-jan-2020",
         "state": "future"
     }
 }
