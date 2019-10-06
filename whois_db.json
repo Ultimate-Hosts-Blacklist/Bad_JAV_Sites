@@ -25,9 +25,9 @@
         "state": "future"
     },
     "bestjav.org": {
-        "epoch": 1570233600,
-        "expiration_date": "05-oct-2019",
-        "state": "past"
+        "epoch": 1601856000,
+        "expiration_date": "05-oct-2020",
+        "state": "future"
     },
     "binrand.com": {
         "epoch": 1580342400,
@@ -119,6 +119,11 @@
         "expiration_date": "01-dec-2019",
         "state": "future"
     },
+    "jav-fhd.net": {
+        "epoch": 1590278400,
+        "expiration_date": "24-may-2020",
+        "state": "future"
+    },
     "jav-fresh.com": {
         "epoch": 1598918400,
         "expiration_date": "01-sep-2020",
@@ -204,6 +209,11 @@
         "expiration_date": "16-jun-2020",
         "state": "future"
     },
+    "javfiles.com": {
+        "epoch": 1596672000,
+        "expiration_date": "06-aug-2020",
+        "state": "future"
+    },
     "javfilmbox.com": {
         "epoch": 1601424000,
         "expiration_date": "30-sep-2020",
@@ -228,6 +238,11 @@
         "epoch": 1697587200,
         "expiration_date": "18-oct-2023",
         "state": "future"
+    },
+    "javjungle.com": {
+        "epoch": 1566259200,
+        "expiration_date": "20-aug-2019",
+        "state": "past"
     },
     "javli6.com": {
         "epoch": 1584316800,
@@ -334,9 +349,19 @@
         "expiration_date": "21-aug-2020",
         "state": "future"
     },
+    "tour2jav.info": {
+        "epoch": 1589241600,
+        "expiration_date": "12-may-2020",
+        "state": "future"
+    },
     "up360.info": {
         "epoch": 1599264000,
         "expiration_date": "05-sep-2020",
+        "state": "future"
+    },
+    "uujav.com": {
+        "epoch": 1599609600,
+        "expiration_date": "09-sep-2020",
         "state": "future"
     }
 }
