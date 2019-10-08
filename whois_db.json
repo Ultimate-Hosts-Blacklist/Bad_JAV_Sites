@@ -469,6 +469,11 @@
         "expiration_date": "30-sep-2020",
         "state": "future"
     },
+    "javforever.com": {
+        "epoch": 1600214400,
+        "expiration_date": "16-sep-2020",
+        "state": "future"
+    },
     "javhappy.com": {
         "epoch": 1592784000,
         "expiration_date": "22-jun-2020",
