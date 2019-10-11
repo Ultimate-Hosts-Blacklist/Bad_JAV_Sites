@@ -164,6 +164,11 @@
         "expiration_date": "23-dec-2020",
         "state": "future"
     },
+    "highav.com": {
+        "epoch": 1588982400,
+        "expiration_date": "09-may-2020",
+        "state": "future"
+    },
     "hopic.net": {
         "epoch": 1581638400,
         "expiration_date": "14-feb-2020",
