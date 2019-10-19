@@ -1,32 +1,23 @@
 {
-    "current_stats": {
-        "builds": 1,
+    "currently_under_test": "0",
+    "days_until_next_test": 2,
+    "end_datetime": "Sat Oct 19 22:05:28 2019",
+    "end_epoch": 1571522728.339482,
+    "last_autosave_datetime": "Sat Oct 19 21:51:38 2019",
+    "last_autosave_epoch": 1571521898.740657,
+    "name": "Bad_JAV_Sites",
+    "previous_stats": {
+        "builds": 2,
+        "clean.list": 358,
         "counter": {
             "down": 840,
             "invalid": 6,
             "tested": 1204,
             "up": 358
-        }
-    },
-    "currently_under_test": "1",
-    "days_until_next_test": 2,
-    "end_datetime": "Fri Oct 18 20:56:47 2019",
-    "end_epoch": 1571432207.783317,
-    "last_autosave_datetime": "Sat Oct 19 21:51:38 2019",
-    "last_autosave_epoch": 1571521898.740657,
-    "name": "Bad_JAV_Sites",
-    "previous_stats": {
-        "builds": 1,
-        "clean.list": 364,
-        "counter": {
-            "down": 780,
-            "invalid": 4,
-            "tested": 1148,
-            "up": 364
         },
-        "domains.list": 1148,
-        "volatile.list": 364,
-        "whitelisted.list": 364
+        "domains.list": 1204,
+        "volatile.list": 358,
+        "whitelisted.list": 358
     },
     "raw_link": "",
     "start_datetime": "Sat Oct 19 21:41:36 2019",
