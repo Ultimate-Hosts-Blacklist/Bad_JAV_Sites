@@ -132,7 +132,7 @@
     "fullhdjav.com": {
         "epoch": 1571702400,
         "expiration_date": "22-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "gravureidolvideo.com": {
         "epoch": 1596844800,
@@ -537,6 +537,11 @@
     "javli6.com": {
         "epoch": 1584316800,
         "expiration_date": "16-mar-2020",
+        "state": "future"
+    },
+    "javlib.club": {
+        "epoch": 1603324800,
+        "expiration_date": "22-oct-2020",
         "state": "future"
     },
     "javlib3.com": {
