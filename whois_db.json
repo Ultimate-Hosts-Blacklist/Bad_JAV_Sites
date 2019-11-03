@@ -125,9 +125,9 @@
         "state": "future"
     },
     "freshjavhd.com": {
-        "epoch": 1566345600,
-        "expiration_date": "21-aug-2019",
-        "state": "past"
+        "epoch": 1604361600,
+        "expiration_date": "03-nov-2020",
+        "state": "future"
     },
     "fullhdjav.com": {
         "epoch": 1603324800,
@@ -540,9 +540,9 @@
         "state": "future"
     },
     "javjungle.com": {
-        "epoch": 1566259200,
-        "expiration_date": "20-aug-2019",
-        "state": "past"
+        "epoch": 1604361600,
+        "expiration_date": "03-nov-2020",
+        "state": "future"
     },
     "javl10.com": {
         "epoch": 1603670400,
