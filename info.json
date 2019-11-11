@@ -1,17 +1,8 @@
 {
-    "current_stats": {
-        "builds": 1,
-        "counter": {
-            "down": 40,
-            "invalid": 0,
-            "tested": 1071,
-            "up": 1031
-        }
-    },
-    "currently_under_test": "1",
+    "currently_under_test": "0",
     "days_until_next_test": 2,
-    "end_datetime": "Sun Nov 10 23:19:24 2019",
-    "end_epoch": 1573427964.410605,
+    "end_datetime": "Mon Nov 11 12:06:35 2019",
+    "end_epoch": 1573473995.734793,
     "last_autosave_datetime": "Mon Nov 11 11:01:28 2019",
     "last_autosave_epoch": 1573470088.399468,
     "name": "Bad_JAV_Sites",
