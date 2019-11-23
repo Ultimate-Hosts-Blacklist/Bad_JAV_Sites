@@ -1,4 +1,9 @@
 {
+    "13vlib.com": {
+        "epoch": 1575417600.0,
+        "expiration_date": "04-dec-2019",
+        "state": "future"
+    },
     "bestjav.org": {
         "epoch": 1601856000.0,
         "expiration_date": "05-oct-2020",
@@ -29,9 +34,19 @@
         "expiration_date": "27-mar-2020",
         "state": "future"
     },
+    "jav-fan.com": {
+        "epoch": 1589500800.0,
+        "expiration_date": "15-may-2020",
+        "state": "future"
+    },
     "jav-fhd.net": {
         "epoch": 1590278400.0,
         "expiration_date": "24-may-2020",
+        "state": "future"
+    },
+    "jav.re": {
+        "epoch": 1585008000.0,
+        "expiration_date": "24-mar-2020",
         "state": "future"
     },
     "javels.com": {
@@ -82,6 +97,11 @@
     "redstars.top": {
         "epoch": 1588118400.0,
         "expiration_date": "29-apr-2020",
+        "state": "future"
+    },
+    "up360.info": {
+        "epoch": 1599264000.0,
+        "expiration_date": "05-sep-2020",
         "state": "future"
     }
 }
