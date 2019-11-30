@@ -149,6 +149,11 @@
         "expiration_date": "04-apr-2020",
         "state": "future"
     },
+    "hdjav.site": {
+        "epoch": 1593993600.0,
+        "expiration_date": "06-jul-2020",
+        "state": "future"
+    },
     "hdjavporn.com": {
         "epoch": 1588809600.0,
         "expiration_date": "07-may-2020",
@@ -544,6 +549,11 @@
         "expiration_date": "22-oct-2020",
         "state": "future"
     },
+    "javlib.xyz": {
+        "epoch": 1603324800.0,
+        "expiration_date": "22-oct-2020",
+        "state": "future"
+    },
     "javlib3.com": {
         "epoch": 1601424000.0,
         "expiration_date": "30-sep-2020",
@@ -742,6 +752,11 @@
     "worldjav.net": {
         "epoch": 1578182400.0,
         "expiration_date": "05-jan-2020",
+        "state": "future"
+    },
+    "yourjav.site": {
+        "epoch": 1604966400.0,
+        "expiration_date": "10-nov-2020",
         "state": "future"
     }
 }
