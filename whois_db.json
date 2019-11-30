@@ -444,6 +444,11 @@
         "expiration_date": "04-oct-2020",
         "state": "future"
     },
+    "javdb.online": {
+        "epoch": 1598227200.0,
+        "expiration_date": "24-aug-2020",
+        "state": "future"
+    },
     "javdirect.com": {
         "epoch": 1599955200.0,
         "expiration_date": "13-sep-2020",
@@ -757,6 +762,11 @@
     "yourjav.site": {
         "epoch": 1604966400.0,
         "expiration_date": "10-nov-2020",
+        "state": "future"
+    },
+    "yourjav.xyz": {
+        "epoch": 1605139200.0,
+        "expiration_date": "12-nov-2020",
         "state": "future"
     }
 }
