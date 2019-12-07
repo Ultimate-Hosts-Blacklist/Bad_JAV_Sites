@@ -664,6 +664,11 @@
         "expiration_date": "31-jan-2020",
         "state": "future"
     },
+    "jcd4share.com": {
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
+        "state": "future"
+    },
     "jdvd4share.com": {
         "epoch": 1589673600.0,
         "expiration_date": "17-may-2020",
