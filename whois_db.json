@@ -319,6 +319,11 @@
         "expiration_date": "30-sep-2020",
         "state": "future"
     },
+    "jav-share.info": {
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
+        "state": "future"
+    },
     "jav-source.com": {
         "epoch": 1576627200.0,
         "expiration_date": "18-dec-2019",
@@ -684,6 +689,11 @@
         "expiration_date": "07-apr-2020",
         "state": "future"
     },
+    "jukoav.info": {
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
+        "state": "future"
+    },
     "look4lib.com": {
         "epoch": 1575763200.0,
         "expiration_date": "08-dec-2019",
@@ -699,9 +709,19 @@
         "expiration_date": "06-apr-2020",
         "state": "future"
     },
+    "newsjav.com": {
+        "epoch": 1606867200.0,
+        "expiration_date": "02-dec-2020",
+        "state": "future"
+    },
     "nippondvd.com": {
         "epoch": 1588896000.0,
         "expiration_date": "08-may-2020",
+        "state": "future"
+    },
+    "oldpig610346.com": {
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
         "state": "future"
     },
     "oo2go.org": {
