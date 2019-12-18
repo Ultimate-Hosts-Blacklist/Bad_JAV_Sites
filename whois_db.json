@@ -324,6 +324,11 @@
         "expiration_date": "30-nov-2020",
         "state": "future"
     },
+    "jav-site.com": {
+        "epoch": 1608249600.0,
+        "expiration_date": "18-dec-2020",
+        "state": "future"
+    },
     "jav-source.com": {
         "epoch": 1576627200.0,
         "expiration_date": "18-dec-2019",
@@ -568,6 +573,11 @@
         "epoch": 1601424000.0,
         "expiration_date": "30-sep-2020",
         "state": "future"
+    },
+    "javlibraries.xyz": {
+        "epoch": 1570665600.0,
+        "expiration_date": "10-oct-2019",
+        "state": "past"
     },
     "javlibrary.online": {
         "epoch": 1600300800.0,
