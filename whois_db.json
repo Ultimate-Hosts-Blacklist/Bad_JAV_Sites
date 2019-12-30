@@ -5,9 +5,9 @@
         "state": "future"
     },
     "3dvdiso.com": {
-        "epoch": 1577577600.0,
-        "expiration_date": "29-dec-2019",
-        "state": "past"
+        "epoch": 1609200000.0,
+        "expiration_date": "29-dec-2020",
+        "state": "future"
     },
     "5avlib.com": {
         "epoch": 1580947200.0,
@@ -472,7 +472,7 @@
     "javdreamshd.com": {
         "epoch": 1577664000.0,
         "expiration_date": "30-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "javeal.com": {
         "epoch": 1584057600.0,
