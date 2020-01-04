@@ -589,6 +589,11 @@
         "expiration_date": "17-sep-2020",
         "state": "future"
     },
+    "javlibrary.xyz": {
+        "epoch": 1609632000.0,
+        "expiration_date": "03-jan-2021",
+        "state": "future"
+    },
     "javlink.net": {
         "epoch": 1570233600.0,
         "expiration_date": "05-oct-2019",
