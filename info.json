@@ -1,32 +1,23 @@
 {
-    "current_stats": {
-        "builds": 2,
-        "counter": {
-            "down": 486,
-            "invalid": 1,
-            "tested": 866,
-            "up": 379
-        }
-    },
-    "currently_under_test": "1",
+    "currently_under_test": "0",
     "days_until_next_test": 2,
-    "end_datetime": "Sat Jan 18 00:23:09 2020",
-    "end_epoch": 1579306989.865253,
+    "end_datetime": "Sun Jan 19 01:03:35 2020",
+    "end_epoch": 1579395815.647135,
     "last_autosave_datetime": "Sat Jan 18 23:59:35 2020",
     "last_autosave_epoch": 1579391975.397786,
     "name": "Bad_JAV_Sites",
     "previous_stats": {
         "builds": 3,
-        "clean.list": 378,
+        "clean.list": 379,
         "counter": {
-            "down": 790,
+            "down": 789,
             "invalid": 4,
             "tested": 1172,
-            "up": 378
+            "up": 379
         },
         "domains.list": 1172,
         "volatile.list": 423,
-        "whitelisted.list": 378
+        "whitelisted.list": 379
     },
     "raw_link": "",
     "start_datetime": "Sat Jan 18 22:27:45 2020",
