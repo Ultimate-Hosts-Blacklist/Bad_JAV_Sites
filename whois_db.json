@@ -600,9 +600,9 @@
         "state": "future"
     },
     "javlink.net": {
-        "epoch": 1570233600.0,
-        "expiration_date": "05-oct-2019",
-        "state": "past"
+        "epoch": 1611532800.0,
+        "expiration_date": "25-jan-2021",
+        "state": "future"
     },
     "javmax.com": {
         "epoch": 1599264000.0,
