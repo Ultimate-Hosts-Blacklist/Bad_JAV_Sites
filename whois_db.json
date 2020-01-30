@@ -87,7 +87,7 @@
     "binrand.com": {
         "epoch": 1580342400.0,
         "expiration_date": "30-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "dmm48.com": {
         "epoch": 1584403200.0,
