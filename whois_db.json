@@ -275,9 +275,9 @@
         "state": "past"
     },
     "jav-depfile.com": {
-        "epoch": 1575158400.0,
-        "expiration_date": "01-dec-2019",
-        "state": "past"
+        "epoch": 1613692800.0,
+        "expiration_date": "19-feb-2021",
+        "state": "future"
     },
     "jav-fan.com": {
         "epoch": 1589500800.0,
@@ -285,9 +285,9 @@
         "state": "future"
     },
     "jav-fhd.com": {
-        "epoch": 1581897600.0,
-        "expiration_date": "17-feb-2020",
-        "state": "past"
+        "epoch": 1613520000.0,
+        "expiration_date": "17-feb-2021",
+        "state": "future"
     },
     "jav-fhd.net": {
         "epoch": 1590278400.0,
