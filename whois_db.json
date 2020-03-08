@@ -220,8 +220,8 @@
         "state": "future"
     },
     "japan-videos.com": {
-        "epoch": 1583539200.0,
-        "expiration_date": "07-mar-2020",
+        "epoch": 1615075200.0,
+        "expiration_date": "07-mar-2021",
         "state": "future"
     },
     "japantv.club": {
@@ -260,9 +260,9 @@
         "state": "future"
     },
     "jav-buzz.com": {
-        "epoch": 1583452800.0,
-        "expiration_date": "06-mar-2020",
-        "state": "past"
+        "epoch": 1614988800.0,
+        "expiration_date": "06-mar-2021",
+        "state": "future"
     },
     "jav-cafe.com": {
         "epoch": 1641340800.0,
@@ -612,6 +612,11 @@
     "javmoo.info": {
         "epoch": 1607472000.0,
         "expiration_date": "09-dec-2020",
+        "state": "future"
+    },
+    "javolts.com": {
+        "epoch": 1615075200.0,
+        "expiration_date": "07-mar-2021",
         "state": "future"
     },
     "javparty.com": {
