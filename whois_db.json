@@ -497,7 +497,7 @@
     "javeal.com": {
         "epoch": 1584057600.0,
         "expiration_date": "13-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "javelop.com": {
         "epoch": 1586476800.0,
