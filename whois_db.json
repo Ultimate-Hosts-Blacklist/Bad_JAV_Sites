@@ -499,6 +499,11 @@
         "expiration_date": "13-mar-2021",
         "state": "future"
     },
+    "javeat.com": {
+        "epoch": 1616025600.0,
+        "expiration_date": "18-mar-2021",
+        "state": "future"
+    },
     "javelop.com": {
         "epoch": 1586476800.0,
         "expiration_date": "10-apr-2020",
