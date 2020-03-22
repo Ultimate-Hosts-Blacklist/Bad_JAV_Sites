@@ -777,7 +777,7 @@
     "topjav.site": {
         "epoch": 1584835200.0,
         "expiration_date": "22-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "tour2jav.info": {
         "epoch": 1589241600.0,
