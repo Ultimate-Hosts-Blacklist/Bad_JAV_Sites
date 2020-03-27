@@ -1,5 +1,19 @@
 {
-    "currently_under_test": false,
+    "current_stats": {
+        "builds": 1,
+        "counter": {
+            "down": 0,
+            "invalid": 0,
+            "malicious": 0,
+            "sane": 0,
+            "tested": 0,
+            "up": 0,
+            "valid": 0
+        },
+        "volatile.list": 416,
+        "whitelisted.list": 370
+    },
+    "currently_under_test": true,
     "days_until_next_test": 2,
     "end_datetime": "2020-03-04T11:08:47.993861",
     "end_epoch": 1583239293.828836,
@@ -23,6 +37,6 @@
         "whitelisted.list": 370
     },
     "raw_link": "",
-    "start_datetime": "2020-03-25T23:46:37.910187",
-    "start_epoch": 1585179997.910187
+    "start_datetime": "2020-03-27T11:14:22.017716",
+    "start_epoch": 1585307662.017716
 }
