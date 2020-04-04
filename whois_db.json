@@ -457,7 +457,7 @@
     "javblast.com": {
         "epoch": 1585872000.0,
         "expiration_date": "03-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "javblog.me": {
         "epoch": 1616284800.0,
