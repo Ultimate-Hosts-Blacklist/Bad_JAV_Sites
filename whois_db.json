@@ -65,9 +65,9 @@
         "state": "future"
     },
     "avpapa.com": {
-        "epoch": 1585958400.0,
-        "expiration_date": "04-apr-2020",
-        "state": "past"
+        "epoch": 1617494400.0,
+        "expiration_date": "04-apr-2021",
+        "state": "future"
     },
     "avside.com": {
         "epoch": 1594684800.0,
@@ -145,9 +145,9 @@
         "state": "past"
     },
     "hdjav.info": {
-        "epoch": 1585958400.0,
-        "expiration_date": "04-apr-2020",
-        "state": "past"
+        "epoch": 1617494400.0,
+        "expiration_date": "04-apr-2021",
+        "state": "future"
     },
     "hdjav.site": {
         "epoch": 1593993600.0,
@@ -455,9 +455,9 @@
         "state": "future"
     },
     "javblast.com": {
-        "epoch": 1585872000.0,
-        "expiration_date": "03-apr-2020",
-        "state": "past"
+        "epoch": 1617408000.0,
+        "expiration_date": "03-apr-2021",
+        "state": "future"
     },
     "javblog.me": {
         "epoch": 1616284800.0,
