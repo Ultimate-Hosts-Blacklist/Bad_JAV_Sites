@@ -445,8 +445,8 @@
         "state": "future"
     },
     "javbaike.com": {
-        "epoch": 1586304000.0,
-        "expiration_date": "08-apr-2020",
+        "epoch": 1744070400.0,
+        "expiration_date": "08-apr-2025",
         "state": "future"
     },
     "javbit.com": {
@@ -507,7 +507,7 @@
     "javelop.com": {
         "epoch": 1586476800.0,
         "expiration_date": "10-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "javels.com": {
         "epoch": 1655251200.0,
@@ -640,8 +640,8 @@
         "state": "future"
     },
     "javpop.org": {
-        "epoch": 1586476800.0,
-        "expiration_date": "10-apr-2020",
+        "epoch": 1618012800.0,
+        "expiration_date": "10-apr-2021",
         "state": "future"
     },
     "javporn.club": {
