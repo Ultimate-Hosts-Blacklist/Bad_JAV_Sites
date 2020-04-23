@@ -765,9 +765,9 @@
         "state": "future"
     },
     "pdf4share.net": {
-        "epoch": 1587600000.0,
-        "expiration_date": "23-apr-2020",
-        "state": "past"
+        "epoch": 1619136000.0,
+        "expiration_date": "23-apr-2021",
+        "state": "future"
     },
     "redstars.top": {
         "epoch": 1588118400.0,
