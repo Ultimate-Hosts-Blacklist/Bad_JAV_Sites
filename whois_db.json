@@ -312,7 +312,7 @@
     "jav-group.com": {
         "epoch": 1587600000.0,
         "expiration_date": "23-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "jav-legend.com": {
         "epoch": 1604448000.0,
@@ -767,7 +767,7 @@
     "pdf4share.net": {
         "epoch": 1587600000.0,
         "expiration_date": "23-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "redstars.top": {
         "epoch": 1588118400.0,
