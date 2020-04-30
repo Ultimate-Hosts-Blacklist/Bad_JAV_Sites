@@ -7,7 +7,7 @@
     "last_autosave_epoch": 1583234886.886357,
     "name": "Bad_JAV_Sites",
     "previous_stats": {
-        "builds": 3,
+        "builds": 1,
         "clean_list": 375,
         "counter": {
             "down": 0,
@@ -19,10 +19,10 @@
             "valid": 0
         },
         "domains.list": 1171,
-        "volatile.list": 421,
+        "volatile.list": 375,
         "whitelisted.list": 375
     },
     "raw_link": "",
-    "start_datetime": "2020-04-29T10:41:05.048868",
-    "start_epoch": 1588156865.048868
+    "start_datetime": "2020-04-30T10:18:21.241872",
+    "start_epoch": 1588241901.241872
 }
