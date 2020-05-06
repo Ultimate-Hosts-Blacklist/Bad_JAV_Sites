@@ -139,6 +139,11 @@
         "expiration_date": "13-aug-2020",
         "state": "future"
     },
+    "hardjav.com": {
+        "epoch": 1620086400.0,
+        "expiration_date": "04-may-2021",
+        "state": "future"
+    },
     "hdjav.biz": {
         "epoch": 1585094400.0,
         "expiration_date": "25-mar-2020",
