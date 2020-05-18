@@ -1221,8 +1221,8 @@
         "jav-maria.com": {
             "included_at_epoch": 1588379793.0,
             "included_at_iso": "2020-05-02T00:36:33",
-            "last_retested_at_epoch": 1589588876.398177,
-            "last_retested_at_iso": "2020-05-16T00:27:56.398177",
+            "last_retested_at_epoch": 1589767026.007229,
+            "last_retested_at_iso": "2020-05-18T01:57:06.007229",
             "status": "INACTIVE"
         },
         "jav-mass.com": {
@@ -2145,8 +2145,8 @@
         "javhomes.net": {
             "included_at_epoch": 1588379307.0,
             "included_at_iso": "2020-05-02T00:28:27",
-            "last_retested_at_epoch": 1589588751.792016,
-            "last_retested_at_iso": "2020-05-16T00:25:51.792016",
+            "last_retested_at_epoch": 1589766856.502142,
+            "last_retested_at_iso": "2020-05-18T01:54:16.502142",
             "status": "INACTIVE"
         },
         "javidoltop.blogspot.com": {
@@ -4098,8 +4098,8 @@
         "www.jav-maria.com": {
             "included_at_epoch": 1588379793.0,
             "included_at_iso": "2020-05-02T00:36:33",
-            "last_retested_at_epoch": 1589588876.466636,
-            "last_retested_at_iso": "2020-05-16T00:27:56.466636",
+            "last_retested_at_epoch": 1589767025.954804,
+            "last_retested_at_iso": "2020-05-18T01:57:05.954804",
             "status": "INACTIVE"
         },
         "www.jav-mass.com": {
@@ -5078,8 +5078,8 @@
         "www.javhomes.net": {
             "included_at_epoch": 1588379307.0,
             "included_at_iso": "2020-05-02T00:28:27",
-            "last_retested_at_epoch": 1589588751.984284,
-            "last_retested_at_iso": "2020-05-16T00:25:51.984284",
+            "last_retested_at_epoch": 1589766856.553602,
+            "last_retested_at_iso": "2020-05-18T01:54:16.553602",
             "status": "INACTIVE"
         },
         "www.javidoltop.blogspot.com": {
