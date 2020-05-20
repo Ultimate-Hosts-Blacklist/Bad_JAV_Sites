@@ -182,7 +182,7 @@
     "hot-av.info": {
         "epoch": 1589932800.0,
         "expiration_date": "20-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "idolax.com": {
         "epoch": 1604275200.0,
@@ -715,9 +715,9 @@
         "state": "future"
     },
     "jdvd4share.com": {
-        "epoch": 1589673600.0,
-        "expiration_date": "17-may-2020",
-        "state": "past"
+        "epoch": 1621209600.0,
+        "expiration_date": "17-may-2021",
+        "state": "future"
     },
     "joshiav.com": {
         "epoch": 1606089600.0,
