@@ -444,8 +444,8 @@
         "hdjavdl.com": {
             "included_at_epoch": 1588385017.0,
             "included_at_iso": "2020-05-02T02:03:37",
-            "last_retested_at_epoch": 1589934921.494255,
-            "last_retested_at_iso": "2020-05-20T00:35:21.494255",
+            "last_retested_at_epoch": 1590113083.320493,
+            "last_retested_at_iso": "2020-05-22T02:04:43.320493",
             "status": "INACTIVE"
         },
         "hdjavload.com": {
@@ -1249,8 +1249,8 @@
         "jav-mayu.com": {
             "included_at_epoch": 1588379621.0,
             "included_at_iso": "2020-05-02T00:33:41",
-            "last_retested_at_epoch": 1589934791.536853,
-            "last_retested_at_iso": "2020-05-20T00:33:11.536853",
+            "last_retested_at_epoch": 1590113024.534865,
+            "last_retested_at_iso": "2020-05-22T02:03:44.534865",
             "status": "INACTIVE"
         },
         "jav-mie.com": {
@@ -1592,8 +1592,8 @@
         "jav-shizuoka.com": {
             "included_at_epoch": 1588379445.0,
             "included_at_iso": "2020-05-02T00:30:45",
-            "last_retested_at_epoch": 1589935228.4561,
-            "last_retested_at_iso": "2020-05-20T00:40:28.456100",
+            "last_retested_at_epoch": 1590113122.493571,
+            "last_retested_at_iso": "2020-05-22T02:05:22.493571",
             "status": "INACTIVE"
         },
         "jav-show.com": {
@@ -1676,8 +1676,8 @@
         "jav-town.com": {
             "included_at_epoch": 1588385306.0,
             "included_at_iso": "2020-05-02T02:08:26",
-            "last_retested_at_epoch": 1589934688.082397,
-            "last_retested_at_iso": "2020-05-20T00:31:28.082397",
+            "last_retested_at_epoch": 1590113027.428037,
+            "last_retested_at_iso": "2020-05-22T02:03:47.428037",
             "status": "INACTIVE"
         },
         "jav-tsubasa.com": {
@@ -2138,8 +2138,8 @@
         "javhdplace.com": {
             "included_at_epoch": 1588379303.0,
             "included_at_iso": "2020-05-02T00:28:23",
-            "last_retested_at_epoch": 1589935048.438103,
-            "last_retested_at_iso": "2020-05-20T00:37:28.438103",
+            "last_retested_at_epoch": 1590113053.923246,
+            "last_retested_at_iso": "2020-05-22T02:04:13.923246",
             "status": "INACTIVE"
         },
         "javhomes.net": {
@@ -2166,8 +2166,8 @@
         "javiews.com": {
             "included_at_epoch": 1588379417.0,
             "included_at_iso": "2020-05-02T00:30:17",
-            "last_retested_at_epoch": 1589935108.987799,
-            "last_retested_at_iso": "2020-05-20T00:38:28.987799",
+            "last_retested_at_epoch": 1590113135.923041,
+            "last_retested_at_iso": "2020-05-22T02:05:35.923041",
             "status": "INACTIVE"
         },
         "javjethd.com": {
@@ -2607,8 +2607,8 @@
         "netjav.me": {
             "included_at_epoch": 1588379278.0,
             "included_at_iso": "2020-05-02T00:27:58",
-            "last_retested_at_epoch": 1589934962.211934,
-            "last_retested_at_iso": "2020-05-20T00:36:02.211934",
+            "last_retested_at_epoch": 1590113023.97096,
+            "last_retested_at_iso": "2020-05-22T02:03:43.970960",
             "status": "INACTIVE"
         },
         "netjav.org": {
@@ -3265,8 +3265,8 @@
         "www.hdjavdl.com": {
             "included_at_epoch": 1588385017.0,
             "included_at_iso": "2020-05-02T02:03:37",
-            "last_retested_at_epoch": 1589934921.47157,
-            "last_retested_at_iso": "2020-05-20T00:35:21.471570",
+            "last_retested_at_epoch": 1590113083.461287,
+            "last_retested_at_iso": "2020-05-22T02:04:43.461287",
             "status": "INACTIVE"
         },
         "www.hdjavload.com": {
@@ -4126,8 +4126,8 @@
         "www.jav-mayu.com": {
             "included_at_epoch": 1588379621.0,
             "included_at_iso": "2020-05-02T00:33:41",
-            "last_retested_at_epoch": 1589934791.513477,
-            "last_retested_at_iso": "2020-05-20T00:33:11.513477",
+            "last_retested_at_epoch": 1590113024.505769,
+            "last_retested_at_iso": "2020-05-22T02:03:44.505769",
             "status": "INACTIVE"
         },
         "www.jav-mie.com": {
@@ -4469,8 +4469,8 @@
         "www.jav-shizuoka.com": {
             "included_at_epoch": 1588379446.0,
             "included_at_iso": "2020-05-02T00:30:46",
-            "last_retested_at_epoch": 1589935228.409682,
-            "last_retested_at_iso": "2020-05-20T00:40:28.409682",
+            "last_retested_at_epoch": 1590113122.536,
+            "last_retested_at_iso": "2020-05-22T02:05:22.536000",
             "status": "INACTIVE"
         },
         "www.jav-show.com": {
@@ -4560,8 +4560,8 @@
         "www.jav-town.com": {
             "included_at_epoch": 1588385306.0,
             "included_at_iso": "2020-05-02T02:08:26",
-            "last_retested_at_epoch": 1589934688.059033,
-            "last_retested_at_iso": "2020-05-20T00:31:28.059033",
+            "last_retested_at_epoch": 1590113027.548102,
+            "last_retested_at_iso": "2020-05-22T02:03:47.548102",
             "status": "INACTIVE"
         },
         "www.jav-tsubasa.com": {
@@ -5071,8 +5071,8 @@
         "www.javhdplace.com": {
             "included_at_epoch": 1588379303.0,
             "included_at_iso": "2020-05-02T00:28:23",
-            "last_retested_at_epoch": 1589935048.424997,
-            "last_retested_at_iso": "2020-05-20T00:37:28.424997",
+            "last_retested_at_epoch": 1590113053.931977,
+            "last_retested_at_iso": "2020-05-22T02:04:13.931977",
             "status": "INACTIVE"
         },
         "www.javhomes.net": {
@@ -5099,8 +5099,8 @@
         "www.javiews.com": {
             "included_at_epoch": 1588379417.0,
             "included_at_iso": "2020-05-02T00:30:17",
-            "last_retested_at_epoch": 1589935109.15613,
-            "last_retested_at_iso": "2020-05-20T00:38:29.156130",
+            "last_retested_at_epoch": 1590113135.937655,
+            "last_retested_at_iso": "2020-05-22T02:05:35.937655",
             "status": "INACTIVE"
         },
         "www.javjapanese.com": {
@@ -5589,8 +5589,8 @@
         "www.netjav.me": {
             "included_at_epoch": 1588379278.0,
             "included_at_iso": "2020-05-02T00:27:58",
-            "last_retested_at_epoch": 1589934962.207717,
-            "last_retested_at_iso": "2020-05-20T00:36:02.207717",
+            "last_retested_at_epoch": 1590113024.088301,
+            "last_retested_at_iso": "2020-05-22T02:03:44.088301",
             "status": "INACTIVE"
         },
         "www.netjav.org": {
