@@ -319,6 +319,11 @@
         "expiration_date": "23-apr-2021",
         "state": "future"
     },
+    "jav-inc.com": {
+        "epoch": 1622246400.0,
+        "expiration_date": "29-may-2021",
+        "state": "future"
+    },
     "jav-legend.com": {
         "epoch": 1604448000.0,
         "expiration_date": "04-nov-2020",
@@ -430,9 +435,9 @@
         "state": "past"
     },
     "javalbum.com": {
-        "epoch": 1590537600.0,
-        "expiration_date": "27-may-2020",
-        "state": "past"
+        "epoch": 1622073600.0,
+        "expiration_date": "27-may-2021",
+        "state": "future"
     },
     "javarchive.biz": {
         "epoch": 1590105600.0,
