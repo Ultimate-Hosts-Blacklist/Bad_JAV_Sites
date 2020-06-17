@@ -532,7 +532,7 @@
     "javeth.com": {
         "epoch": 1592265600.0,
         "expiration_date": "16-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "javfever.com": {
         "epoch": 1600214400.0,
@@ -695,8 +695,8 @@
         "state": "future"
     },
     "javstar.net": {
-        "epoch": 1592352000.0,
-        "expiration_date": "17-jun-2020",
+        "epoch": 1623888000.0,
+        "expiration_date": "17-jun-2021",
         "state": "future"
     },
     "javstorehd.com": {
