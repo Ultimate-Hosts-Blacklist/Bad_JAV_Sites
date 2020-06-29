@@ -260,8 +260,8 @@
         "state": "future"
     },
     "jav-bus.com": {
-        "epoch": 1593302400.0,
-        "expiration_date": "28-jun-2020",
+        "epoch": 1624838400.0,
+        "expiration_date": "28-jun-2021",
         "state": "future"
     },
     "jav-buzz.com": {
@@ -337,7 +337,7 @@
     "jav-load.com": {
         "epoch": 1593302400.0,
         "expiration_date": "28-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "jav-lover.com": {
         "epoch": 1712880000.0,
@@ -650,8 +650,8 @@
         "state": "future"
     },
     "javperfect.com": {
-        "epoch": 1593302400.0,
-        "expiration_date": "28-jun-2020",
+        "epoch": 1624838400.0,
+        "expiration_date": "28-jun-2021",
         "state": "future"
     },
     "javpop.org": {
