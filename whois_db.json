@@ -25,9 +25,9 @@
         "state": "future"
     },
     "archive-jav.com": {
-        "epoch": 1593475200.0,
-        "expiration_date": "30-jun-2020",
-        "state": "past"
+        "epoch": 1625011200.0,
+        "expiration_date": "30-jun-2021",
+        "state": "future"
     },
     "avaruaru.com": {
         "epoch": 1617321600.0,
@@ -330,9 +330,9 @@
         "state": "future"
     },
     "jav-library.com": {
-        "epoch": 1593475200.0,
-        "expiration_date": "30-jun-2020",
-        "state": "past"
+        "epoch": 1625011200.0,
+        "expiration_date": "30-jun-2021",
+        "state": "future"
     },
     "jav-load.com": {
         "epoch": 1624838400.0,
