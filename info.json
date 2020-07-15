@@ -8,7 +8,7 @@
     "name": "Bad_JAV_Sites",
     "previous_stats": {
         "builds": 1,
-        "clean_list": 367,
+        "clean_list": 368,
         "counter": {
             "down": 0,
             "invalid": 0,
@@ -19,10 +19,10 @@
             "valid": 0
         },
         "domains.list": 1171,
-        "volatile.list": 413,
-        "whitelisted.list": 367
+        "volatile.list": 414,
+        "whitelisted.list": 368
     },
     "raw_link": "",
-    "start_datetime": "2020-07-14T11:02:26.949212",
-    "start_epoch": 1594724546.949212
+    "start_datetime": "2020-07-15T11:24:02.405692",
+    "start_epoch": 1594812242.405692
 }
