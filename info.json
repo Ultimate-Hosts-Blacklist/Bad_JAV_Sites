@@ -19,10 +19,10 @@
             "valid": 0
         },
         "domains.list": 1171,
-        "volatile.list": 384,
+        "volatile.list": 370,
         "whitelisted.list": 368
     },
     "raw_link": "",
-    "start_datetime": "2020-07-17T22:05:31.363204",
-    "start_epoch": 1595023531.363204
+    "start_datetime": "2020-07-18T11:27:13.700262",
+    "start_epoch": 1595071633.700262
 }
