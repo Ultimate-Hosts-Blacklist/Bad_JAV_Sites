@@ -230,8 +230,8 @@
         "state": "future"
     },
     "japantv.club": {
-        "epoch": 1598140800.0,
-        "expiration_date": "23-aug-2020",
+        "epoch": 1629676800.0,
+        "expiration_date": "23-aug-2021",
         "state": "future"
     },
     "jav-addict.com": {
@@ -405,8 +405,8 @@
         "state": "future"
     },
     "jav4me.club": {
-        "epoch": 1598140800.0,
-        "expiration_date": "23-aug-2020",
+        "epoch": 1629676800.0,
+        "expiration_date": "23-aug-2021",
         "state": "future"
     },
     "jav4share.net": {
@@ -415,13 +415,13 @@
         "state": "future"
     },
     "jav4you.club": {
-        "epoch": 1598140800.0,
-        "expiration_date": "23-aug-2020",
+        "epoch": 1629676800.0,
+        "expiration_date": "23-aug-2021",
         "state": "future"
     },
     "jav4you.online": {
-        "epoch": 1598227200.0,
-        "expiration_date": "24-aug-2020",
+        "epoch": 1629763200.0,
+        "expiration_date": "24-aug-2021",
         "state": "future"
     },
     "jav77.com": {
@@ -492,7 +492,7 @@
     "javdb.online": {
         "epoch": 1598227200.0,
         "expiration_date": "24-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "javdirect.com": {
         "epoch": 1599955200.0,
