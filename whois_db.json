@@ -490,9 +490,9 @@
         "state": "future"
     },
     "javdb.online": {
-        "epoch": 1598227200.0,
-        "expiration_date": "24-aug-2020",
-        "state": "past"
+        "epoch": 1629763200.0,
+        "expiration_date": "24-aug-2021",
+        "state": "future"
     },
     "javdirect.com": {
         "epoch": 1599955200.0,
