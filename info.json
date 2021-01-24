@@ -1,28 +1,18 @@
 {
-    "currently_under_test": false,
+    "currently_under_test": true,
+    "custom_pyfunceble_config": {},
     "days_until_next_test": 2,
     "end_datetime": "2020-03-04T11:08:47.993861",
     "end_epoch": 1583239293.828836,
-    "last_autosave_datetime": "2020-03-04T11:08:47.993882",
-    "last_autosave_epoch": 1583234886.886357,
     "name": "Bad_JAV_Sites",
-    "previous_stats": {
-        "builds": 1,
-        "clean_list": 324,
-        "counter": {
-            "down": 0,
-            "invalid": 0,
-            "malicious": 0,
-            "sane": 0,
-            "tested": 0,
-            "up": 0,
-            "valid": 0
-        },
-        "domains.list": 1171,
-        "volatile.list": 324,
-        "whitelisted.list": 324
+    "previous_end_datetime": "2020-03-04T11:08:47.993861",
+    "previous_end_epoch": 1583320127.993861,
+    "previous_start_datetime": "2020-09-05T00:36:36.447901",
+    "previous_start_epoch": 1599266196.447901,
+    "pyfunceble": {
+        "config": {}
     },
     "raw_link": "",
-    "start_datetime": "2020-09-05T00:36:36.447901",
-    "start_epoch": 1599266196.447901
+    "start_datetime": "2021-01-24T10:17:47.030891",
+    "start_epoch": 1611483467.030891
 }
