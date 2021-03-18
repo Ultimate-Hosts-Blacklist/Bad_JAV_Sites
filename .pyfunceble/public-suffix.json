@@ -801,6 +801,7 @@
     ],
     "cloud": [
         "banzai.cloud",
+        "kuleuven.cloud",
         "statics.cloud",
         "es-1.axarnet.cloud",
         "diadem.cloud",
@@ -819,7 +820,6 @@
         "us.reclaim.cloud",
         "ch.trendhosting.cloud",
         "de.trendhosting.cloud",
-        "kuleuven.cloud",
         "linkyard.cloud",
         "magentosite.cloud",
         "perspecta.cloud",
@@ -6717,7 +6717,8 @@
     "page": [
         "pdns.page",
         "plesk.page",
-        "prvcy.page"
+        "prvcy.page",
+        "magnet.page"
     ],
     "party": [
         "ybo.party"
