@@ -1,0 +1,13 @@
+{
+    "checker_type": "AVAILABILITY",
+    "destination": "domains.list",
+    "hash": "c59a077e422a77b32122744590b42ac41b4904ce1f1306dcf3d51a04",
+    "line_number": 1169,
+    "output_dir": "/home/runner/work/Bad_JAV_Sites/Bad_JAV_Sites/output/domains.list",
+    "previous_hash": "c59a077e422a77b32122744590b42ac41b4904ce1f1306dcf3d51a04",
+    "session_id": "6af072dadb1aeed048e7ffa5",
+    "source": "domains.list",
+    "subject": "domains.list",
+    "subject_type": "domain",
+    "type": "file"
+}
