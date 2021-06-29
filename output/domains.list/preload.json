@@ -1,10 +1,10 @@
 {
     "checker_type": "AVAILABILITY",
     "destination": "domains.list",
-    "hash": "0d55d71487d4c9823785fda70b1a587deb5ba7ce2539aab332b7bd08",
+    "hash": "8b793f63a24ad839d09d5b8fd4dfff8cb3568af3ef2d20336c6e4a19",
     "line_number": 1169,
     "output_dir": "/home/runner/work/Bad_JAV_Sites/Bad_JAV_Sites/output/domains.list",
-    "previous_hash": "0d55d71487d4c9823785fda70b1a587deb5ba7ce2539aab332b7bd08",
+    "previous_hash": "8b793f63a24ad839d09d5b8fd4dfff8cb3568af3ef2d20336c6e4a19",
     "session_id": "8b7f834b960f3d574069d108",
     "source": "domains.list",
     "subject": "domains.list",
