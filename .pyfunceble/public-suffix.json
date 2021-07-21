@@ -1221,6 +1221,7 @@
         "members.linode.com",
         "meteorapp.com",
         "mex.com",
+        "miniserver.com",
         "myactivedirectory.com",
         "myasustor.com",
         "mydatto.com",
@@ -7497,7 +7498,6 @@
         "code.run",
         "development.run",
         "hs.run",
-        "miniserver.com",
         "ravendb.run",
         "repl.run"
     ],
@@ -8357,7 +8357,6 @@
         "ri.us",
         "sc.us",
         "sd.us",
-        "statics.cloud",
         "stuff-4-sale.us",
         "tec.mi.us",
         "tn.us",
