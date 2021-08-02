@@ -1,17 +1,17 @@
 {
     "currently_under_test": false,
     "days_until_next_test": 2,
-    "end_datetime": "2021-08-01T03:06:02.719837",
-    "end_epoch": 1627787162.719837,
+    "end_datetime": "2021-08-02T02:58:56.761318",
+    "end_epoch": 1627873136.761318,
     "name": "Bad_JAV_Sites",
-    "previous_end_datetime": "2021-07-31T02:57:00.722141",
-    "previous_end_epoch": 1627700220.722141,
-    "previous_start_datetime": "2021-07-31T02:49:51.264165",
-    "previous_start_epoch": 1627699791.264165,
+    "previous_end_datetime": "2021-08-01T03:06:02.719837",
+    "previous_end_epoch": 1627787162.719837,
+    "previous_start_datetime": "2021-08-01T02:51:35.433833",
+    "previous_start_epoch": 1627786295.433833,
     "pyfunceble": {
         "config": {}
     },
     "raw_link": "",
-    "start_datetime": "2021-08-01T02:51:35.433833",
-    "start_epoch": 1627786295.433833
+    "start_datetime": "2021-08-02T02:50:42.236258",
+    "start_epoch": 1627872642.236258
 }
