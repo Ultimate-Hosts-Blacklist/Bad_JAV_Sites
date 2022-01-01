@@ -2,11 +2,13 @@
     "counter": {
         "Above.com Pty Ltd.": 1,
         "Dynadot LLC": 1,
-        "total": 2
+        "Gransy, s.r.o.": 1,
+        "total": 3
     },
     "percentage": {
-        "Above.com Pty Ltd.": 50.0,
-        "Dynadot LLC": 50.0,
+        "Above.com Pty Ltd.": 33.333333333333336,
+        "Dynadot LLC": 33.333333333333336,
+        "Gransy, s.r.o.": 33.333333333333336,
         "total": 100.0
     }
 }
