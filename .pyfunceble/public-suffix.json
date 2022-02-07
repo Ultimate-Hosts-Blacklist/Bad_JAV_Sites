@@ -335,7 +335,6 @@
     ],
     "be": [
         "ac.be",
-        "blogspot.be",
         "cloud.interhostsolutions.be",
         "ezproxy.kuleuven.be",
         "myspreadshop.be",
@@ -2145,7 +2144,6 @@
         "dvrcam.info",
         "dynamic-dns.info",
         "dyndns.info",
-        "fastlylb.net",
         "for-our.info",
         "forumz.info",
         "groks-the.info",
@@ -7909,6 +7907,7 @@
         "org.tm"
     ],
     "tn": [
+        "blogspot.be",
         "com.tn",
         "ens.tn",
         "fin.tn",
