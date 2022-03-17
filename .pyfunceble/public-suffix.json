@@ -692,6 +692,7 @@
     "bt": [
         "com.bt",
         "edu.bt",
+        "gov.bt",
         "net.bt",
         "org.bt"
     ],
@@ -873,7 +874,6 @@
         "elb.amazonaws.com.cn",
         "fj.cn",
         "gd.cn",
-        "gov.bt",
         "gov.cn",
         "gs.cn",
         "gx.cn",
