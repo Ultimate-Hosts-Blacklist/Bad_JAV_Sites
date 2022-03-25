@@ -1,16 +1,18 @@
 {
     "counter": {
-        "Above.com Pty Ltd.": 1,
+        "Above.com Pty Ltd.": 2,
+        "CloudFlare, Inc.": 1,
         "Dynadot LLC": 1,
         "Gransy, s.r.o.": 1,
-        "NameCheap, Inc.": 1,
-        "total": 4
+        "NameCheap, Inc.": 2,
+        "total": 7
     },
     "percentage": {
-        "Above.com Pty Ltd.": 25.0,
-        "Dynadot LLC": 25.0,
-        "Gransy, s.r.o.": 25.0,
-        "NameCheap, Inc.": 25.0,
-        "total": 100.0
+        "Above.com Pty Ltd.": 28.571428571428573,
+        "CloudFlare, Inc.": 14.285714285714286,
+        "Dynadot LLC": 14.285714285714286,
+        "Gransy, s.r.o.": 14.285714285714286,
+        "NameCheap, Inc.": 28.571428571428573,
+        "total": 100.00000000000001
     }
 }
