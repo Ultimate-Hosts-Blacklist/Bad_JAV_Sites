@@ -1,8 +1,8 @@
 {
-    "currently_under_test": true,
+    "currently_under_test": false,
     "days_until_next_test": 2,
-    "end_datetime": "2024-06-27T01:54:15.013536",
-    "end_epoch": 1719453255.013536,
+    "end_datetime": "2024-06-27T06:26:08.103964",
+    "end_epoch": 1719469568.103964,
     "name": "Bad_JAV_Sites",
     "previous_end_datetime": "2024-06-27T01:54:15.013536",
     "previous_end_epoch": 1719453255.013536,
