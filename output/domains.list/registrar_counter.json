@@ -1,0 +1,38 @@
+{
+    "counter": {
+        "1API GmbH": 2,
+        "Above.com Pty Ltd": 2,
+        "Above.com Pty Ltd.": 4,
+        "CloudFlare, Inc.": 2,
+        "Cosmotown, Inc.": 2,
+        "DYNADOT, LLC": 2,
+        "Dynadot Inc": 4,
+        "Dynadot LLC": 2,
+        "Dynadot, LLC": 2,
+        "GoDaddy.com, LLC": 4,
+        "Gransy, s.r.o.": 2,
+        "Media Elite Holdings Limited": 2,
+        "NameCheap, Inc.": 8,
+        "NameSilo, LLC": 2,
+        "Porkbun LLC": 2,
+        "total": 42
+    },
+    "percentage": {
+        "1API GmbH": 4.761904761904762,
+        "Above.com Pty Ltd": 4.761904761904762,
+        "Above.com Pty Ltd.": 9.523809523809524,
+        "CloudFlare, Inc.": 4.761904761904762,
+        "Cosmotown, Inc.": 4.761904761904762,
+        "DYNADOT, LLC": 4.761904761904762,
+        "Dynadot Inc": 9.523809523809524,
+        "Dynadot LLC": 4.761904761904762,
+        "Dynadot, LLC": 4.761904761904762,
+        "GoDaddy.com, LLC": 9.523809523809524,
+        "Gransy, s.r.o.": 4.761904761904762,
+        "Media Elite Holdings Limited": 4.761904761904762,
+        "NameCheap, Inc.": 19.047619047619047,
+        "NameSilo, LLC": 4.761904761904762,
+        "Porkbun LLC": 4.761904761904762,
+        "total": 100.0
+    }
+}
